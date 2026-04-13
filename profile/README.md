@@ -1,13 +1,15 @@
 # 1. `docs` 민간 SaaS 연계공통기반 이용 가이드
-### (1) [서비스신청](https://github.com/privateSaasOperationSupportCenter/docs/blob/main/1.%20%EC%84%9C%EB%B9%84%EC%8A%A4%EC%8B%A0%EC%B2%AD.md)
+### (1) [사전준비신청](https://github.com/SaasLinkagePlatform/docs/blob/main/1.%20%EC%82%AC%EC%A0%84%EC%A4%80%EB%B9%84%EC%8B%A0%EC%B2%AD.md)
 
-### (2) [API key 발급 및 사용](https://github.com/privateSaasOperationSupportCenter/docs/blob/main/2.%20API%20key%20%EB%B0%9C%EA%B8%89%20%EB%B0%8F%20%EC%82%AC%EC%9A%A9.md)
+### (2) [서비스신청](https://github.com/SaasLinkagePlatform/docs/blob/main/2.%20%EC%84%9C%EB%B9%84%EC%8A%A4%EC%8B%A0%EC%B2%AD.md)
 
-### (3) [연계 개발 기술 지원](https://github.com/privateSaasOperationSupportCenter/docs/blob/main/3.%20%EC%97%B0%EA%B3%84%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%88%A0%20%EC%A7%80%EC%9B%90.md)
+### (3) [API key 발급 및 사용](https://github.com/SaasLinkagePlatform/docs/blob/main/3.%20API%20key%20%EB%B0%9C%EA%B8%89%20%EB%B0%8F%20%EC%82%AC%EC%9A%A9.md)
 
-### (4) [FAQ 자주 묻는 질문](https://github.com/privateSaasOperationSupportCenter/docs/blob/main/4.%20FAQ%20%EC%9E%90%EC%A3%BC%20%EB%AC%BB%EB%8A%94%20%EC%A7%88%EB%AC%B8.md)
+### (4) [연계 개발 기술 지원](https://github.com/SaasLinkagePlatform/docs/blob/main/4.%20%EC%97%B0%EA%B3%84%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%88%A0%20%EC%A7%80%EC%9B%90.md)
 
-### (5) [서비스 개통 증적](https://github.com/privateSaasOperationSupportCenter/docs/blob/main/5.%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B0%9C%ED%86%B5%20%EC%A6%9D%EC%A0%81.md)
+### (5) [FAQ 자주 묻는 질문](https://github.com/SaasLinkagePlatform/docs/blob/main/5.%20FAQ%20%EC%9E%90%EC%A3%BC%20%EB%AC%BB%EB%8A%94%20%EC%A7%88%EB%AC%B8.md)
+
+### (6) [서비스 개통 증적](https://github.com/SaasLinkagePlatform/docs/blob/main/6.%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B0%9C%ED%86%B5%20%EC%A6%9D%EC%A0%81.md)
 # 2. `develop` 전자정부 연계 SaaS API 목록 가이드
 ### `서비스명을 클릭하시면, 서비스별 연계 개발 가이드 상세페이지로 이동합니다.`
 
